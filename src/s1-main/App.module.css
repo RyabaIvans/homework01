@@ -1,0 +1,15 @@
+.App {
+    --header_height: 60px;
+    display: flex;
+    flex-direction: column;
+}
+
+.hw {
+    display: flex;
+    flex-direction: column;
+}
+
+.hwTitle {
+
+}
+
